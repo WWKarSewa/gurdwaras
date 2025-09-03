@@ -1,0 +1,26 @@
+[
+  {
+    "country": "Canada",
+    "city": "Brampton",
+    "name": "Gurdwara Sikh Sangat Brampton",
+    "history": "Founded in 1975, this Gurdwara serves as a spiritual hub for the Sikh community in the Greater Toronto Area, established by early Sikh immigrants.",
+    "management": "Brampton Sikh Sangat Committee 2025",
+    "programs": {
+      "nitnem": "4:30 AM",
+      "kirtan": "6:30 PM",
+      "langar": "11:00 AM - 4:00 PM"
+    },
+    "updates": ["Annual Sikh Heritage Month Celebration on April 20"],
+    "images": [
+      "https://via.placeholder.com/200"
+    ],
+    "contact": {
+      "phone": "+1-905-456-7890",
+      "email": "contact@sikhsangatbrampton.ca",
+      "map": "https://goo.gl/maps/abc123"
+    },
+    "lat": 43.6860,
+    "lng": -79.7600,
+    "featured": true
+  }
+]
