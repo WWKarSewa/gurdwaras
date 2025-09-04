@@ -1,26 +1,69 @@
 [
   {
+    "id": "gurdwara_001",
+    "name": {
+      "en": "Gurdwara Sahib Kuala Lumpur",
+      "pa": "ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਕੁਆਲਾ ਲੰਪੁਰ"
+    },
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "history": {
+      "en": "Established in 1922.",
+      "pa": "1922 ਵਿੱਚ ਸਥਾਪਿਤ।"
+    },
+    "management": {
+      "en": "SGSS Malaysia Committee",
+      "pa": "SGSS ਮਲੇਸ਼ੀਆ ਕਮੇਟੀ"
+    },
+    "updates": {
+      "en": "Renovation of Langar Hall ongoing.",
+      "pa": "ਲੰਗਰ ਹਾਲ ਦੀ ਮੁਰੰਮਤ ਜਾਰੀ ਹੈ।"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Gurdwara_Sahib_Kuala_Lumpur.jpg"
+  },
+  {
+    "id": "gurdwara_002",
+    "name": {
+      "en": "Sri Guru Singh Sabha London",
+      "pa": "ਸ੍ਰੀ ਗੁਰੂ ਸਿੰਘ ਸਭਾ ਲੰਡਨ"
+    },
+    "country": "UK",
+    "city": "London",
+    "history": {
+      "en": "Largest Gurdwara in Europe.",
+      "pa": "ਯੂਰਪ ਦਾ ਸਭ ਤੋਂ ਵੱਡਾ ਗੁਰਦੁਆਰਾ।"
+    },
+    "management": {
+      "en": "SGSS London Board",
+      "pa": "SGSS ਲੰਡਨ ਬੋਰਡ"
+    },
+    "updates": {
+      "en": "New Punjabi classes every Sunday.",
+      "pa": "ਹਰ ਐਤਵਾਰ ਨਵੀਆਂ ਪੰਜਾਬੀ ਕਲਾਸਾਂ।"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Southall_Gurdwara_Sri_Guru_Singh_Sabha.jpg"
+  },
+  {
+    "id": "gurdwara_003",
+    "name": {
+      "en": "Gurdwara Guru Nanak Darbar Toronto",
+      "pa": "ਗੁਰਦੁਆਰਾ ਗੁਰੂ ਨਾਨਕ ਦਰਬਾਰ ਟੋਰਾਂਟੋ"
+    },
     "country": "Canada",
-    "city": "Brampton",
-    "name": "Gurdwara Sikh Sangat Brampton",
-    "history": "Founded in 1975, this Gurdwara serves as a spiritual hub for the Sikh community in the Greater Toronto Area, established by early Sikh immigrants.",
-    "management": "Brampton Sikh Sangat Committee 2025",
-    "programs": {
-      "nitnem": "4:30 AM",
-      "kirtan": "6:30 PM",
-      "langar": "11:00 AM - 4:00 PM"
+    "city": "Toronto",
+    "history": {
+      "en": "Serving Sangat since 1975.",
+      "pa": "1975 ਤੋਂ ਸੰਗਤ ਦੀ ਸੇਵਾ ਕਰ ਰਿਹਾ ਹੈ।"
     },
-    "updates": ["Annual Sikh Heritage Month Celebration on April 20"],
-    "images": [
-      "https://gurdwaradasmeshdarbar.com/wp-content/themes/gurdwara/img/images/slide1.jpg"
-    ],
-    "contact": {
-      "phone": "+1-905-456-7890",
-      "email": "contact@sikhsangatbrampton.ca",
-      "map": "https://goo.gl/maps/abc123"
+    "management": {
+      "en": "Toronto Sikh Association",
+      "pa": "ਟੋਰਾਂਟੋ ਸਿੱਖ ਐਸੋਸੀਏਸ਼ਨ"
     },
-    "lat": 43.6860,
-    "lng": -79.7600,
-    "featured": true
+    "updates": {
+      "en": "Blood donation camp on Sept 20.",
+      "pa": "20 ਸਤੰਬਰ ਨੂੰ ਖੂਨਦਾਨ ਕੈਂਪ।"
+    },
+    "image": "https://gurdwaradasmeshdarbar.com/wp-content/themes/gurdwara/img/images/slide1.jpg"
   }
 ]
+      
