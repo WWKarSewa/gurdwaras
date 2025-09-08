@@ -64,6 +64,28 @@
       "pa": "20 ਸਤੰਬਰ ਨੂੰ ਖੂਨਦਾਨ ਕੈਂਪ।"
     },
     "image": "https://gurdwaradasmeshdarbar.com/wp-content/themes/gurdwara/img/images/slide1.jpg"
+  },
+   {
+    "id": "gurdwara_001",
+    "name": {
+      "en": "Gurdwara Sahib Kuala Lumpur",
+      "pa": "ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਕੁਆਲਾ ਲੰਪੁਰ"
+    },
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "history": {
+      "en": "Established in 1922.",
+      "pa": "1922 ਵਿੱਚ ਸਥਾਪਿਤ।"
+    },
+    "management": {
+      "en": "SGSS Malaysia Committee",
+      "pa": "SGSS ਮਲੇਸ਼ੀਆ ਕਮੇਟੀ"
+    },
+    "updates": {
+      "en": "Renovation of Langar Hall ongoing.",
+      "pa": "ਲੰਗਰ ਹਾਲ ਦੀ ਮੁਰੰਮਤ ਜਾਰੀ ਹੈ।"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Gurdwara_Sahib_Kuala_Lumpur.jpg"
   }
 ]
       
